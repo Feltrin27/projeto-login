@@ -60,5 +60,8 @@ Grandes Telas: acima de 1200px
         text-align: center;
         margin-bottom: 10px;
         font-size: 2em;
+        color: #007A4B;
+        font-weight: bolder;
+        text-shadow: px 0px 2px #4bfbb779;
     }
 }
